@@ -33,6 +33,9 @@
 <br><br><br><br><br><br>
 
 <h2 align="left">Quotes:</h3>
+<p>“Religion is still useful among the herd - that it helps their orderly conduct as nothing else could. The crude human animal is in-eradicably superstitious, and there is every biological reason why they should be.
+Take away his Christian god and saints, and he will worship something else...”
+― H.P. Lovecraft </p>
 <p>“The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown”
 ― H.P. Lovecraft, Supernatural Horror in Literature </p>
 <p>“The world is indeed comic, but the joke is on mankind.”
