@@ -30,4 +30,13 @@
 
 <h3 align="left">Status:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yasarchavez&show_icons=true&locale=en" alt="yasarchavez" /></p>
+<br><br><br><br><br><br>
+
+<h2 align="left">Quotes:</h3>
+<p>“The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown”
+― H.P. Lovecraft, Supernatural Horror in Literature </p>
+<p>“The world is indeed comic, but the joke is on mankind.”
+― H. P. Lovecraft </p>
+<p>“The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of the infinity, and it was not meant that we should voyage far.”
+― H. P. Lovercraft, The Call of Cthulhu and Other Weird Stories </p>
 
