@@ -30,7 +30,7 @@
 
 <h3 align="left">Status:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yasarchavez&show_icons=true&locale=en" alt="yasarchavez" /></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <h2 align="left">Quotes:</h3>
 <p>“Religion is still useful among the herd - that it helps their orderly conduct as nothing else could. The crude human animal is in-eradicably superstitious, and there is every biological reason why they should be.
