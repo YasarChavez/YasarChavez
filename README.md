@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasarchavez&show_icons=true&locale=en&layout=compact" alt="yasarchavez" /></p><br><br><br><br><br>
 
 <h3 align="left">Status:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yasarchavez&show_icons=true&locale=es" alt="yasarchavez" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yasarchavez&show_icons=true&locale=en" alt="yasarchavez" /></p>
 
