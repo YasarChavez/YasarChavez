@@ -26,7 +26,7 @@
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chavezyasar" /></a></p><br><br>
 
 <h3 align="left">Languagues:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasarchavez&show_icons=true&locale=en&layout=compact" alt="yasarchavez" /></p><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasarchavez&show_icons=true&locale=en&layout=compact" alt="yasarchavez" /></p><br><br><br><br><br>
 
 <h3 align="left">Status:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yasarchavez&show_icons=true&locale=es" alt="yasarchavez" /></p>
