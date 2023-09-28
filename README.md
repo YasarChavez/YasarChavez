@@ -29,7 +29,7 @@
 <br>
 <br>
 <h3 align="left">MercadoPago:</h3>
-<p><a href="https://mpago.la/1cdvGjW" title="MercadoPago">
+<p><a href="https://mpago.la/1a2wPQP" title="MercadoPago">
 <img align="left "src="https://http2.mlstatic.com/D_NQ_NP_708422-MLA69656617235_052023-F.jpg" width="75" height="75" />
 </a></p>
 
