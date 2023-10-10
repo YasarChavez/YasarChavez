@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasarchavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasarchavez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chavezyasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavezyasar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasarchavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavezyasar" height="30" width="40" /></a>
 <a href="https://instagram.com/chavezyasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chavezyasar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMIESrBrsxuJ4IVj-0Jbyow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmiesrbrsxuj4ivj-0jbyow" height="30" width="40" /></a>
 </p><br>
